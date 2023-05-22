@@ -1,0 +1,19 @@
+[
+  {
+    "title": "awesome Meal",
+    "foto": "amazon.jpg",
+    "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel, consectetur dolores voluptate aliquid exercitationem nostrum iusto at sit architecto modi ipsum animi perspiciatis minima reiciendis omnis eaque rem aspernatur error?"
+  },
+  {
+    "title": "awesome Sauces",
+    "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel, consectetur dolores voluptate aliquid exercitationem nostrum iusto at sit architecto modi ipsum animi perspiciatis minima reiciendis omnis eaque rem aspernatur error?"
+  },
+  {
+    "title": "awesome Sausage",
+    "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel, consectetur dolores voluptate aliquid exercitationem nostrum iusto at sit architecto modi ipsum animi perspiciatis minima reiciendis omnis eaque rem aspernatur error?"
+  },
+  {
+    "title": "awesome tree",
+    "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vel, consectetur dolores voluptate aliquid exercitationem nostrum iusto at sit architecto modi ipsum animi perspiciatis minima reiciendis omnis eaque rem aspernatur error?"
+  }
+]
