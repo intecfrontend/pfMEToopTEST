@@ -77,7 +77,7 @@ function Banner() {
 						variants={fadeIn('down', 0.5)}
 						initial="hidden"
 						whileInView={'show'}
-						className="hidden lg:flex flex-1 max-w-[400px] lg:max-w-[400px] justify-center items-center relative box ">
+						className="hidden lg:flex flex-1 max-w-[400px] lg:max-h-[400px] justify-center items-center relative box ">
 						<div className="content pointer-events-none">
 							<img src={Image} alt="" />
 							<h2 className="pb-3">HII THERE! 🙋<br />Want to work together? </h2>
